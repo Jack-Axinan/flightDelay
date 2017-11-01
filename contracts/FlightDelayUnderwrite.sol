@@ -5,7 +5,7 @@
  * @copyright (c) 2017 etherisc GmbH
  * @author Christoph Mussenbrock
  */
-
+test
 pragma solidity ^0.4.11;
 
 import "./FlightDelayControlledContract.sol";
